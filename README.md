@@ -6,6 +6,7 @@
 - Auto upgrade cards
 - Auto upgrade multi tap
 - Auto upgrade energy
+- Support multi account
 - Register Valiants [here](https://t.me/valiants_taptap_bot?start=59b8bc2c)
 
 ## Installation
